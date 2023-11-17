@@ -1,0 +1,87 @@
+body {
+  background-color: #1F0318;
+}
+
+#main {
+    background-color: #283618;
+    padding: 10px;
+    margin: 10px;
+}
+
+#title {
+  text-align: center;
+  font-size: 4rem;
+  letter-spacing: 0.5rem;
+}
+
+header h3 {
+  text-align: center;
+  letter-spacing: 0.5rem;
+  margin-top: -1.8rem;
+    font-size: 2rem;
+}
+
+header {
+  background-color: #606C38;
+  padding: 0.5rem;
+    margin: 10px;
+}
+
+#img-div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#img-caption {
+  font-family: "Montserrat";
+  margin-top: 3px;
+    font-weight: 800;
+}
+
+#image {
+  min-width: 30%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+#tribute-info {
+    background-color: #FEF9D7;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#tribute-info p {
+  padding: 7px;
+  font-family: "Montserrat", serif;
+    font-weight: 400;
+}
+
+#tribute-info h2, #tribute-info h3 {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.bold {
+    display: block;
+    font-family: "Montserrat";
+    font-weight: 800;
+  letter-spacing: 0.1rem;
+    padding-bottom: 5px;
+}
+
+.link a:visited {
+    color: black;
+}
+
+.link a:hover {
+    background-color: #283618;
+    color: #FEF9D7;
+}
+
+#cc-logo {
+    display: block;
+    margin-top: 10px;
+}
